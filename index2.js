@@ -1,4 +1,4 @@
-
+// La méthode map
 
 const nbre = [3, 2, 5, 6, 10];
 const multiple = nbre.map(function (currentValue) {
